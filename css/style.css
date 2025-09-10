@@ -270,7 +270,6 @@ footer {
 
 /* --- ESTILOS ADICIONAIS PARA A NOVA HOMEPAGE --- */
 
-
 main {
   padding: 0;
 }
@@ -288,7 +287,7 @@ main > section {
 /* --- 1. Estilos da Hero Section --- */
 .hero-section {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/img/chocolatepp.png");
+    url("img/chocolatepp.png");
   height: 60vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -443,7 +442,6 @@ main > section {
   display: flex;
   flex-direction: column;
   overflow: hidden; /* Ensures the image respects the rounded corners */
-  
 }
 
 .story-image {
@@ -478,7 +476,7 @@ body.center-vertically .content {
   flex: 1; /* Allows 'main' to fill available space */
   flex-direction: column;
   justify-content: center; /* Vertically aligns the content */
-  align-items: center;     /* Horizontally aligns the content */
+  align-items: center; /* Horizontally aligns the content */
 }
 
 /* --- Media Query for Story Page on Small Screens --- */
