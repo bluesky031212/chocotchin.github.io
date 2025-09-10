@@ -1,12 +1,12 @@
 /* ... (Seu CSS anterior para body, header, menu, etc., permanece o mesmo) ... */
 @font-face {
   font-family: "titulo";
-  src: url("/font/Nunito-Black.ttf") format("truetype");
+  src: url("font/Nunito-Black.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "corpo";
-  src: url("/font/Quicksand-SemiBold.ttf") format("truetype");
+  src: url("font/Quicksand-SemiBold.ttf") format("truetype");
 }
 
 /* body {
