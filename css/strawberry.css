@@ -11,6 +11,13 @@ body {
   min-height: 100vh;
 }
 
+.content {
+  background-color: #f1e8d9cc;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 header {
   display: flex;
   background-size: cover;
@@ -47,7 +54,7 @@ header {
 }
 
 .conteudo-janela {
-  background-image: url("../img/lyrics-background.png");
+  background-image: url("../img/lyrics-strawberry-background.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -56,11 +63,11 @@ header {
   color: #333;
 
   width: 1000px; /* Mantém a largura fixa */
-  height: 1800px; /* Define uma altura mínima, mas permite que cresça */
+  height: 1150px; /* Define uma altura mínima, mas permite que cresça */
   margin: 90px 90px;
-  margin-top: 600px;
+  margin-top: 800px;
   padding: 300px 120px;
-  padding-top: 1000px;
+  padding-top: 250px;
 }
 
 .conteudo-janela h2 {

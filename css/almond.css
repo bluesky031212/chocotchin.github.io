@@ -29,8 +29,8 @@
   color: #333;
 
   /* Remova as dimensões fixas para que ele se ajuste ao conteúdo */
-  width: 600px; /* Mantém a largura fixa */
-  min-height: 600px; /* Define uma altura mínima, mas permite que cresça */
+  width: 650px; /* Mantém a largura fixa */
+  min-height: 650px; /* Define uma altura mínima, mas permite que cresça */
   margin: 50px 50px;
   /* Ajuste o preenchimento para que o texto não "grude" nas bordas do pergaminho */
   padding: 300px 90px;
