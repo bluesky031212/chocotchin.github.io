@@ -12,7 +12,7 @@ body {
 }
 
 .content {
-  background-color: #f1e8d9cc;
+  background-color: #f1e8d9;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -23,7 +23,7 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #f1e8d9;
+  background-color: #efe0c4;
   justify-content: center;
   align-items: center;
   color: white;
