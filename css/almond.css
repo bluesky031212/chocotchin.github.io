@@ -20,7 +20,7 @@
 }
 
 .conteudo-janela {
-  background-image: url("img/lyrics-background.png");
+  background-image: url("../img/lyrics-background.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -83,13 +83,13 @@
 
 /* Imagem parada */
 .personagem-parado {
-  background-image: url("img/taylor-dancep.png");
+  background-image: url("../img/taylor-dancep.png");
   background-size: cover;
 }
 
 /* Animação com spritesheet */
 .personagem-animado.playing {
-  background-image: url("img/taylor-dance.png");
+  background-image: url("../img/taylor-dance.png");
   animation: animarPersonagem 5s steps(12) infinite;
   background-size: calc(6672px / 4) auto; /* reduz a spritesheet proporcionalmente */
 }

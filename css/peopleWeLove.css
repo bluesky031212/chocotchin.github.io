@@ -1,7 +1,7 @@
 .friends-section {
   padding: 40px 20px;
   text-align: center;
-  background-image: url("img/amigos.png");
+  background-image: url("../img/amigos.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
